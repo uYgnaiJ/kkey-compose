@@ -1,0 +1,3 @@
+[submodule "kkey-server"]
+	path = kkey-server
+	url = https://github.com/uYgnaiJ/kkey.git
